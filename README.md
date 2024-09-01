@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-   <img alt = "Poject LK" src="./assets1/visita.jpg.jpeg"width="70%">
+   <img alt = "Poject LK" src="./assets1/modelo1.jpeg"width="400%">
 </p>
 
 ## 🚀 Tecnologias
